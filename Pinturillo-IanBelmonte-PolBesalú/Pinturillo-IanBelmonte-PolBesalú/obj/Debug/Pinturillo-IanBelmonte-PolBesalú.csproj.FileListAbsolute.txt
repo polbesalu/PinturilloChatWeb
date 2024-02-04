@@ -1,0 +1,7 @@
+C:\Programació\Pinturillo-IanBelmonte-PolBesalú\Pinturillo-IanBelmonte-PolBesalú\bin\Debug\Pinturillo-IanBelmonte-PolBesalú.exe.config
+C:\Programació\Pinturillo-IanBelmonte-PolBesalú\Pinturillo-IanBelmonte-PolBesalú\bin\Debug\Pinturillo-IanBelmonte-PolBesalú.exe
+C:\Programació\Pinturillo-IanBelmonte-PolBesalú\Pinturillo-IanBelmonte-PolBesalú\bin\Debug\Pinturillo-IanBelmonte-PolBesalú.pdb
+C:\Programació\Pinturillo-IanBelmonte-PolBesalú\Pinturillo-IanBelmonte-PolBesalú\obj\Debug\Pinturillo-IanBelmonte-PolBesalú.csproj.AssemblyReference.cache
+C:\Programació\Pinturillo-IanBelmonte-PolBesalú\Pinturillo-IanBelmonte-PolBesalú\obj\Debug\Pinturillo-IanBelmonte-PolBesalú.csproj.CoreCompileInputs.cache
+C:\Programació\Pinturillo-IanBelmonte-PolBesalú\Pinturillo-IanBelmonte-PolBesalú\obj\Debug\Pinturillo-IanBelmonte-PolBesalú.exe
+C:\Programació\Pinturillo-IanBelmonte-PolBesalú\Pinturillo-IanBelmonte-PolBesalú\obj\Debug\Pinturillo-IanBelmonte-PolBesalú.pdb
